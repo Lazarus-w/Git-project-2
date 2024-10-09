@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+	cout<<"hellow world";
     /*
     int x;
     cout<<"inter a number /n";
