@@ -1,6 +1,11 @@
 #include<iostream>
 using namespace std;
 int main(){
+	int x=12;
+	int y=85;
+	double sum;
+	sum=y+x;
+	cout<<sum;
 	std::cout<<"hellow there this is me";
     /*
     int x;
